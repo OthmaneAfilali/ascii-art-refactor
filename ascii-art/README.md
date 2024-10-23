@@ -27,7 +27,9 @@ You can use the program by passing a string as an argument. The program will out
 
 Example:
 
+```
 go run . "Hello, World!"
+```
 
 This will print the ASCII art representation of the string "Hello, World!" using the default banner (standard).
 
@@ -43,7 +45,9 @@ To specify a different banner, pass the banner name as an additional argument.
 
 Example:
 
+```
 go run . "ASCII Art" shadow
+```
 
 This will print the string "ASCII Art" in the shadow banner style.
 
@@ -59,7 +63,9 @@ The program can handle various types of input including:
 
 Example:
 
+```
 go run . "Hello\nWorld"
+```
 
 This will print "Hello" and "World" on separate lines in ASCII art.
 
@@ -70,10 +76,12 @@ If the input contains characters outside the supported ASCII range, the program 
 
 Usage Instructions Example:
 
+```
 go run .
 # Outputs:
 # Usage: go run . [STRING] [BANNER]
 # Example: go run . "Hello" standard
+```
 
 
 ## Roadmap
