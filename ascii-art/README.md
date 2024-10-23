@@ -86,7 +86,7 @@ go run .
 
 ## Roadmap
 
-Future versions of the ASCII Art Generator may include:
+Future versions of the ASCII Art may include:
 
 - Color Options: Add the ability to colorize specific parts of the ASCII output
 - File Output: Allow users to write ASCII art output to a file
