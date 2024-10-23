@@ -14,9 +14,11 @@ The ASCII Art Generator is a Go program that converts text into an ASCII art rep
 To run the program, clone the repository and use Go to build and execute the project.
 
 
-git clone https://01.gritlab.ax/git/ylee/ascii-art
+```
+git clone https://github.com/yourusername/ascii-art-generator.git
 cd ascii-art-generator
 go run .
+```
 
 
 ## Usage
